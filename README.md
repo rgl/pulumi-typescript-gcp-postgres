@@ -28,7 +28,7 @@ See https://cloud.google.com/sdk/docs/install
 Install the dependencies:
 
 ```powershell
-choco install -y pulumi --version 3.37.2
+choco install -y pulumi --version 3.38.0
 choco install -y nodejs-lts --version 16.16.0
 choco install -y postgresql14 --ia '--enable-components commandlinetools'
 Import-Module "$env:ChocolateyInstall\helpers\chocolateyInstaller.psm1"
